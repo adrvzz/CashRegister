@@ -1,0 +1,9 @@
+=== Transaction ===
+Date & Time: 2025-06-06 21:05:24
+Cashier: andreiraviza
+1 x Brewed Coffee @ 120.0 = 120.0
+2 x Mocha Frappuccino @ 190.0 = 380.0
+3 x Espresso Shot @ 95.0 = 285.0
+2 x Iced Latte @ 150.0 = 300.0
+Total: 1085.0
+------------------------
