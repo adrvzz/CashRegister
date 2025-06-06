@@ -1,6 +1,0 @@
-=== Transaction ===
-Date & Time: 2025-06-06 19:37:29
-Cashier: andreiraviza
-3 x Brewed Coffee @ 120.0 = 360.0
-Total: 360.0
-------------------------
